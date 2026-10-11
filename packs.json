@@ -1,15 +1,69 @@
-
 {
   "packs": [
+    {
+      "code": "AL",
+      "name": "-AL-Aylesbrook_Local_260922.zip",
+      "version": "260922"
+    },
+    {
+      "code": "BO",
+      "name": "-BO-B07_fixed_260615.zip",
+      "version": "260615"
+    },
+    {
+      "code": "CA",
+      "name": "-CA-Cessna_260615.zip",
+      "version": "260615"
+    },
+    {
+      "code": "DR",
+      "name": "-DR-DLR_B90_Stock_260615.zip",
+      "version": "260615"
+    },
+    {
+      "code": "HP",
+      "name": "-HP-Horizon_Pack_260615.zip",
+      "version": "260615"
+    },
+    {
+      "code": "IR",
+      "name": "-IR-Irthling_Pack_260808.zip",
+      "version": "260808"
+    },
+    {
+      "code": "LF",
+      "name": "-LF-Leahs_Freight_Pack_260615.zip",
+      "version": "260615"
+    },
+    {
+      "code": "PC",
+      "name": "-PC-Curved_Platform_Pack_260615.zip",
+      "version": "260615"
+    },
+    {
+      "code": "PM",
+      "name": "-PM-PolarisMisc_260927.zip",
+      "version": "260927"
+    },
     {
       "code": "PV",
       "name": "-PV-PolarisVehicles_260812.zip",
       "version": "260812"
     },
     {
-      "code": "PM",
-      "name": "-PM-PolarisMisc_260927.zip",
-      "version": "260927"
+      "code": "WI",
+      "name": "-WI-Wingstar_ICE_260615.zip",
+      "version": "260615"
+    },
+    {
+      "code": "WP",
+      "name": "-WP-World_PIDS_Pack_260615.zip",
+      "version": "260615"
+    },
+    {
+      "code": "WS",
+      "name": "-WS-Wingstar_Pack_260726.zip",
+      "version": "260726"
     }
   ]
 }
