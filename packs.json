@@ -5,6 +5,11 @@
       "code": "PV",
       "name": "-PV-PolarisVehicles_260812.zip",
       "version": "260812"
+    },
+    {
+      "code": "PM",
+      "name": "-PM-PolarisMisc_260927.zip",
+      "version": "260927"
     }
   ]
 }
