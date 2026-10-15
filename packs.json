@@ -68,7 +68,7 @@
   ],
   "mods": [
     {
-      "id": "",
+      "id": "mtr-traffic-addon",
       "name": "MTR Traffic Addon",
       "version": "26.10.2",
       "filename": "mtr-traffic-addon-26.10.2.jar",
