@@ -65,5 +65,14 @@
       "name": "-WS-Wingstar_Pack_260726.zip",
       "version": "260726"
     }
+  ],
+  "mods": [
+    {
+      "id": "",
+      "name": "MTR Traffic Addon",
+      "version": "26.10.2",
+      "filename": "mtr-traffic-addon-26.10.2.jar",
+      "url": "https://cdn.modrinth.com/data/kythvg5P/versions/IMBSMF3b/mtr-traffic-addon-26.10.2.jar?mr_download_reason=standalone"
+    }
   ]
 }
