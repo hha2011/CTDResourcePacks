@@ -80,6 +80,41 @@
       "version": "3.1.2",
       "fileName": "athena-3.1.2.jar",
       "url": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/mXJWSwbJ/athena-fabric-1.20.1-3.1.2.jar"
+    },
+    {
+      "id": "automobility",
+      "name": "Automobility",
+      "version": "0.4.2+1.20.1-fabric",
+      "fileName": "automobility-0.4.2+1.20.1-fabric.jar",
+      "url": "https://cdn.modrinth.com/data/rqIsPf9F/versions/G97BY8OB/automobility-0.4.2%2B1.20.1-fabric.jar"
+    },
+    {
+      "id": "badoptimizations",
+      "name": "BadOptimizations",
+      "version": "2.4.1",
+      "fileName": "badoptimizations-2.4.1.jar",
+      "url": "https://cdn.modrinth.com/data/g96Z4WVZ/versions/DIugITgU/BadOptimizations-2.4.1-1.20.1.jar"
+    },
+    {
+      "id": "jta",
+      "name": "British Transit Addon",
+      "version": "1.0.0-alpha.9",
+      "fileName": "jta-1.0.0-alpha.9.jar",
+      "url": "https://cdn.modrinth.com/data/EohbPKqQ/versions/mLcvPMOc/BTA-fabric-1.0.0-alpha.9%2B1.20.1.jar"
+    },
+    {
+      "id": "c2me",
+      "name": "Concurrent Chunk Management Engine",
+      "version": "0.2.0+alpha.11.16",
+      "fileName": "c2me-0.2.0+alpha.11.16.jar",
+      "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/s4WOiNtz/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.16.jar"
+    },
+    {
+      "id": "carpet-tis-addition",
+      "name": "Carpet TIS Addition",
+      "version": "1.78.2",
+      "fileName": "carpet-tis-addition-1.78.2.jar",
+      "url": "https://cdn.modrinth.com/data/jE0SjGuf/versions/q4NB4G4j/carpet-tis-addition-v1.78.2-mc1.20.1.jar"
     }
   ]
 }
