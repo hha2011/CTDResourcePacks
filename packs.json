@@ -150,6 +150,20 @@
       "version": "1.2.1-1.20-fabric",
       "fileName": "evilcreativefly-1.2.1-1.20-fabric.jar",
       "url": "https://cdn.modrinth.com/data/XrD3Auyv/versions/zlZ2lHQ7/CreativeFly-1.2.1-1.20-fabric.jar"
+    },
+    {
+      "id": "emojiful",
+      "name": "Emojiful",
+      "version": "4.2.0",
+      "fileName": "emojiful-4.2.0.jar",
+      "url": "https://cdn.modrinth.com/data/72GXx2MO/versions/ELIJcdMH/Emojiful-Fabric-1.20.1-4.2.0.jar"
+    },
+    {
+      "id": "entity_model_features",
+      "name": "Entity Model Features",
+      "version": "3.0.17",
+      "fileName": "entity_model_features-3.0.17.jar",
+      "url": "https://cdn.modrinth.com/data/4I1XuqiY/versions/kujplV21/entity_model_features_1.20.1-fabric-3.0.17.jar"
     }
   ]
 }
